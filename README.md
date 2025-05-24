@@ -26,7 +26,7 @@ Since this is a custom library, clone or copy the source code into your project 
 
 bash
 # Clone this repository or include the file directly
-git clone https://github.com/yourusername/Mouni2212.git
+git clone https://github.com/MounikaSatyaAnusha/Mouni2212.git
 
 
 
